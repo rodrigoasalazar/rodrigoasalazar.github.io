@@ -1,0 +1,95 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Creative touch</title>
+    <link rel="stylesheet" href="interior.css">
+  </head>
+  <body>
+    <div class="page">
+      <div class="menu-container">
+        <div class="menu">
+          <div class="Home">
+            <a href="#" style="color:black">Home</a>
+          </div>
+          <div class="Public">
+            <a href="#">Public</a>
+          </div>
+          <div class="Commercial">
+            <a href="#">Commercial</a>
+          </div>
+          <div class="Residential">
+            <a href="#">Residential</a>
+          </div>
+          <div class="Services">
+            <a href="#">Services</a>
+          </div>
+          <div class="Contact">
+            <a href="#">Contact</a>
+          </div>
+        </div>
+      </div>
+      <div class='section content'>
+        <div class="illustration">
+          <img class="illustration" src='logo.png' style="max-width:">
+        </div>
+      </div>
+      <div class='section content'>
+        <div class="cover">
+          <img class="cover" src='cover.jpg' style="max-width:">
+        </div>
+      </div>
+      <div class="section">
+        <div class="text">
+          <h1>Experts In Public Interior Design</h1>
+          <br>
+          <p>I'm a paragraph. Click here to add your own text and edit me.
+            I’m a great place for you to tell a story <br> and let your users know a little more about you.</p>
+            <br>
+          <button type="button" name="button">CONTACT US</button>
+        </div>
+      </div>
+      <div class="grid">
+        <div class='column'>
+          <img src='pic1.jpg' style="width:100%"/>
+          <img src='pic4.jpg' style="width:100%"/>
+        </div>
+        <div class='column' >
+          <img src='pic2.jpg' style="width:100%"/>
+          <img src='pic5.jpg' style="width:100%"/>
+        </div>
+        <div class='column' >
+          <img src='pic3.jpg' style="width:100%"/>
+          <img src='pic8.jpg' style="width:100%"/>
+        </div>
+      </div>
+        <div class="section">
+          <div class="text2">
+            <h1>Making Commercial Design Matter</h1>
+            <br>
+            <p>I'm a paragraph. Click here to add your own text and edit me.
+              I’m a great place for you to tell a story <br> and let your users know a little more about you.</p>
+          </div>
+        </div>
+        <div class='section content'>
+          <div class="cover">
+            <img class="cover" src='pic7.jpg' style="max-width:">
+          </div>
+        </div>
+        <div class="section">
+          <div class="text">
+            <h1>Creating New Residential Impact</h1>
+            <br>
+            <p>I'm a paragraph. Click here to add your own text and edit me.
+              I’m a great place for you to tell a story <br> and let your users know a little more about you.</p>
+          </div>
+        </div>
+
+        <div class="footer">
+          <div class="footer-container">
+            <p>&copy; 2018 First Graphic and Web Design</p>
+          </div>
+        </div>
+    </div>
+
+  </body>
+</html>
